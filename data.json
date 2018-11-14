@@ -1,0 +1,10 @@
+{
+"NumPy": {"male": 13.0},
+"matplotlib": {"female": 1.0, "male": 22.0},
+"pandas": {"female": 2.0, "male": 14.0},
+"Juypyter": {"female": 4.0, "male": 12.0},
+"IPython": {"female": 1.0, "male": 9.0},
+"nteract": {"female": 9.0, "male": 27.0, "nonbinary": 1.0},
+"stan": {"female": 1.0, "male": 41.0},
+"conda-forge": {"female": 1.0, "male": 15.0}
+}
